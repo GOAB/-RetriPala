@@ -7,7 +7,6 @@ using Android.Widget;
 using Android.OS;
 
 namespace RetriPala
-// namespace RetriPala
 {
 	[Activity (Label = "RetriPala", MainLauncher = false)]
 	public class MainActivity : Activity
